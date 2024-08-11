@@ -1,0 +1,4 @@
+source;share/Thanh_Tan/local_setup.bash
+source;share/Thanh_Tan/local_setup.dsv
+source;share/Thanh_Tan/local_setup.sh
+source;share/Thanh_Tan/local_setup.zsh

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<robot xmlns:xacro="http://www.ros.org/wiki/xacro"  name="robot">
+
+    <xacro:include filename="/home/thanhtan/ros_ws/src/my_bot/description/robot_core.xacro" /> <!--Tệp mô tả tổng quan hình dạng, tính chất robot-->
+    
+    <xacro:include filename="/home/thanhtan/ros_ws/src/my_bot/description/gazebo_control.xacro" /> <!-- Tệp điều khiển robot trong môi trường Gazebo -->
+
+    <xacro:include filename="/home/thanhtan/ros_ws/src/my_bot/description/lidar.xacro" />
+
+    <xacro:include filename="/home/thanhtan/ros_ws/src/my_bot/description/camera.xacro" />
+
+    <xacro:include filename="/home/thanhtan/ros_ws/src/my_bot/description/ros2_control.xacro" />
+
+</robot>
