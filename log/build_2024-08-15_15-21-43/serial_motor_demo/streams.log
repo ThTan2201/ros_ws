@@ -1,0 +1,39 @@
+[0.702s] Invoking command in '/home/thanhtan/ros_ws/src/serial_motor_demo/serial_motor_demo': PS1=\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/thanhtan/ros_ws/build/serial_motor_demo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/thanhtan/ros_ws/install/serial_motor_demo/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/serial_motor_demo build --build-base /home/thanhtan/ros_ws/build/serial_motor_demo/build install --record /home/thanhtan/ros_ws/build/serial_motor_demo/install.log --single-version-externally-managed install_data
+[0.849s] /home/thanhtan/.local/lib/python3.8/site-packages/setuptools/_distutils/dist.py:268: UserWarning: Unknown distribution option: 'tests_require'
+[0.849s]   warnings.warn(msg)
+[0.934s] running egg_info
+[0.946s] writing ../../../build/serial_motor_demo/serial_motor_demo.egg-info/PKG-INFO
+[0.946s] writing dependency_links to ../../../build/serial_motor_demo/serial_motor_demo.egg-info/dependency_links.txt
+[0.947s] writing entry points to ../../../build/serial_motor_demo/serial_motor_demo.egg-info/entry_points.txt
+[0.947s] writing requirements to ../../../build/serial_motor_demo/serial_motor_demo.egg-info/requires.txt
+[0.947s] writing top-level names to ../../../build/serial_motor_demo/serial_motor_demo.egg-info/top_level.txt
+[1.037s] reading manifest file '../../../build/serial_motor_demo/serial_motor_demo.egg-info/SOURCES.txt'
+[1.038s] Traceback (most recent call last):
+[1.038s]   File "setup.py", line 5, in <module>
+[1.038s]     setup(
+[1.038s]   File "/home/thanhtan/.local/lib/python3.8/site-packages/setuptools/__init__.py", line 108, in setup
+[1.038s]     return distutils.core.setup(**attrs)
+[1.038s]   File "/home/thanhtan/.local/lib/python3.8/site-packages/setuptools/_distutils/core.py", line 184, in setup
+[1.038s]     return run_commands(dist)
+[1.038s]   File "/home/thanhtan/.local/lib/python3.8/site-packages/setuptools/_distutils/core.py", line 200, in run_commands
+[1.038s]     dist.run_commands()
+[1.038s]   File "/home/thanhtan/.local/lib/python3.8/site-packages/setuptools/_distutils/dist.py", line 964, in run_commands
+[1.039s]     self.run_command(cmd)
+[1.039s]   File "/home/thanhtan/.local/lib/python3.8/site-packages/setuptools/dist.py", line 945, in run_command
+[1.039s]     super().run_command(command)
+[1.039s]   File "/home/thanhtan/.local/lib/python3.8/site-packages/setuptools/_distutils/dist.py", line 983, in run_command
+[1.039s]     cmd_obj.run()
+[1.039s]   File "/home/thanhtan/.local/lib/python3.8/site-packages/setuptools/command/egg_info.py", line 310, in run
+[1.040s]     self.find_sources()
+[1.040s]   File "/home/thanhtan/.local/lib/python3.8/site-packages/setuptools/command/egg_info.py", line 318, in find_sources
+[1.040s]     mm.run()
+[1.040s]   File "/home/thanhtan/.local/lib/python3.8/site-packages/setuptools/command/egg_info.py", line 544, in run
+[1.040s]     self.prune_file_list()
+[1.040s]   File "/home/thanhtan/.local/lib/python3.8/site-packages/setuptools/command/egg_info.py", line 610, in prune_file_list
+[1.041s]     base_dir = self.distribution.get_fullname()
+[1.041s]   File "/home/thanhtan/.local/lib/python3.8/site-packages/setuptools/_core_metadata.py", line 266, in get_fullname
+[1.041s]     return _distribution_fullname(self.get_name(), self.get_version())
+[1.041s]   File "/home/thanhtan/.local/lib/python3.8/site-packages/setuptools/_core_metadata.py", line 284, in _distribution_fullname
+[1.041s]     canonicalize_version(version, strip_trailing_zero=False),
+[1.042s] TypeError: canonicalize_version() got an unexpected keyword argument 'strip_trailing_zero'
+[1.057s] Invoked command in '/home/thanhtan/ros_ws/src/serial_motor_demo/serial_motor_demo' returned '1': PS1=\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/thanhtan/ros_ws/build/serial_motor_demo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/thanhtan/ros_ws/install/serial_motor_demo/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/serial_motor_demo build --build-base /home/thanhtan/ros_ws/build/serial_motor_demo/build install --record /home/thanhtan/ros_ws/build/serial_motor_demo/install.log --single-version-externally-managed install_data

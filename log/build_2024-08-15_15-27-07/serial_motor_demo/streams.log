@@ -1,0 +1,41 @@
+[0.691s] Invoking command in '/home/thanhtan/ros_ws/src/serial_motor_demo/serial_motor_demo': PS1=\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/thanhtan/ros_ws/build/serial_motor_demo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/thanhtan/ros_ws/install/serial_motor_demo/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/serial_motor_demo build --build-base /home/thanhtan/ros_ws/build/serial_motor_demo/build install --record /home/thanhtan/ros_ws/build/serial_motor_demo/install.log --single-version-externally-managed install_data
+[0.915s] running egg_info
+[0.915s] creating ../../../build/serial_motor_demo/serial_motor_demo.egg-info
+[0.925s] writing ../../../build/serial_motor_demo/serial_motor_demo.egg-info/PKG-INFO
+[0.925s] writing dependency_links to ../../../build/serial_motor_demo/serial_motor_demo.egg-info/dependency_links.txt
+[0.925s] writing entry points to ../../../build/serial_motor_demo/serial_motor_demo.egg-info/entry_points.txt
+[0.925s] writing requirements to ../../../build/serial_motor_demo/serial_motor_demo.egg-info/requires.txt
+[0.925s] writing top-level names to ../../../build/serial_motor_demo/serial_motor_demo.egg-info/top_level.txt
+[0.926s] writing manifest file '../../../build/serial_motor_demo/serial_motor_demo.egg-info/SOURCES.txt'
+[0.949s] reading manifest file '../../../build/serial_motor_demo/serial_motor_demo.egg-info/SOURCES.txt'
+[0.949s] writing manifest file '../../../build/serial_motor_demo/serial_motor_demo.egg-info/SOURCES.txt'
+[0.949s] running build
+[0.949s] running build_py
+[0.950s] creating /home/thanhtan/ros_ws/build/serial_motor_demo/build
+[0.950s] creating /home/thanhtan/ros_ws/build/serial_motor_demo/build/lib
+[0.950s] creating /home/thanhtan/ros_ws/build/serial_motor_demo/build/lib/serial_motor_demo
+[0.950s] copying serial_motor_demo/gui.py -> /home/thanhtan/ros_ws/build/serial_motor_demo/build/lib/serial_motor_demo
+[0.950s] copying serial_motor_demo/__init__.py -> /home/thanhtan/ros_ws/build/serial_motor_demo/build/lib/serial_motor_demo
+[0.950s] copying serial_motor_demo/driver.py -> /home/thanhtan/ros_ws/build/serial_motor_demo/build/lib/serial_motor_demo
+[0.950s] running install
+[0.954s] running install_lib
+[0.964s] creating /home/thanhtan/ros_ws/install/serial_motor_demo/lib/python3.8/site-packages/serial_motor_demo
+[0.964s] copying /home/thanhtan/ros_ws/build/serial_motor_demo/build/lib/serial_motor_demo/gui.py -> /home/thanhtan/ros_ws/install/serial_motor_demo/lib/python3.8/site-packages/serial_motor_demo
+[0.964s] copying /home/thanhtan/ros_ws/build/serial_motor_demo/build/lib/serial_motor_demo/__init__.py -> /home/thanhtan/ros_ws/install/serial_motor_demo/lib/python3.8/site-packages/serial_motor_demo
+[0.964s] copying /home/thanhtan/ros_ws/build/serial_motor_demo/build/lib/serial_motor_demo/driver.py -> /home/thanhtan/ros_ws/install/serial_motor_demo/lib/python3.8/site-packages/serial_motor_demo
+[0.965s] byte-compiling /home/thanhtan/ros_ws/install/serial_motor_demo/lib/python3.8/site-packages/serial_motor_demo/gui.py to gui.cpython-38.pyc
+[0.968s] byte-compiling /home/thanhtan/ros_ws/install/serial_motor_demo/lib/python3.8/site-packages/serial_motor_demo/__init__.py to __init__.cpython-38.pyc
+[0.969s] byte-compiling /home/thanhtan/ros_ws/install/serial_motor_demo/lib/python3.8/site-packages/serial_motor_demo/driver.py to driver.cpython-38.pyc
+[0.970s] running install_data
+[0.970s] creating /home/thanhtan/ros_ws/install/serial_motor_demo/share/ament_index
+[0.970s] creating /home/thanhtan/ros_ws/install/serial_motor_demo/share/ament_index/resource_index
+[0.970s] creating /home/thanhtan/ros_ws/install/serial_motor_demo/share/ament_index/resource_index/packages
+[0.970s] copying resource/serial_motor_demo -> /home/thanhtan/ros_ws/install/serial_motor_demo/share/ament_index/resource_index/packages
+[0.970s] copying package.xml -> /home/thanhtan/ros_ws/install/serial_motor_demo/share/serial_motor_demo
+[0.970s] running install_egg_info
+[0.983s] Copying ../../../build/serial_motor_demo/serial_motor_demo.egg-info to /home/thanhtan/ros_ws/install/serial_motor_demo/lib/python3.8/site-packages/serial_motor_demo-0.0.0-py3.8.egg-info
+[0.984s] running install_scripts
+[1.024s] Installing driver script to /home/thanhtan/ros_ws/install/serial_motor_demo/lib/serial_motor_demo
+[1.024s] Installing gui script to /home/thanhtan/ros_ws/install/serial_motor_demo/lib/serial_motor_demo
+[1.024s] writing list of installed files to '/home/thanhtan/ros_ws/build/serial_motor_demo/install.log'
+[1.044s] Invoked command in '/home/thanhtan/ros_ws/src/serial_motor_demo/serial_motor_demo' returned '0': PS1=\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/thanhtan/ros_ws/build/serial_motor_demo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/thanhtan/ros_ws/install/serial_motor_demo/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/serial_motor_demo build --build-base /home/thanhtan/ros_ws/build/serial_motor_demo/build install --record /home/thanhtan/ros_ws/build/serial_motor_demo/install.log --single-version-externally-managed install_data

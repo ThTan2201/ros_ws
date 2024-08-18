@@ -1,8 +1,0 @@
-source;share/Thanh_Tan/hook/cmake_prefix_path.ps1
-source;share/Thanh_Tan/hook/cmake_prefix_path.dsv
-source;share/Thanh_Tan/hook/cmake_prefix_path.sh
-source;share/Thanh_Tan/local_setup.bash
-source;share/Thanh_Tan/local_setup.dsv
-source;share/Thanh_Tan/local_setup.ps1
-source;share/Thanh_Tan/local_setup.sh
-source;share/Thanh_Tan/local_setup.zsh

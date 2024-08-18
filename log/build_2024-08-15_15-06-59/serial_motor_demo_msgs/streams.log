@@ -1,0 +1,5 @@
+[0.031s] Invoking command in '/home/thanhtan/ros_ws/build/serial_motor_demo_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy PS1=\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ /usr/bin/cmake --build /home/thanhtan/ros_ws/build/serial_motor_demo_msgs -- -j12 -l12
+[0.051s] CMake Error: The source directory "/home/thanhtan/ros_ws/src/serial_motor_demo/serial_motor_demo_msgs" does not exist.
+[0.052s] Specify --help for usage, or press the help button on the CMake GUI.
+[0.052s] make: *** [Makefile:1228: cmake_check_build_system] Error 1
+[0.055s] Invoked command in '/home/thanhtan/ros_ws/build/serial_motor_demo_msgs' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy PS1=\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ /usr/bin/cmake --build /home/thanhtan/ros_ws/build/serial_motor_demo_msgs -- -j12 -l12

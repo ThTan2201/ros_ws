@@ -1,0 +1,64 @@
+[ 10%] Built target serial_motor_demo_msgs__rosidl_generator_c
+[ 12%] Built target serial_motor_demo_msgs__cpp
+[ 44%] Built target serial_motor_demo_msgs__rosidl_typesupport_introspection_cpp
+[ 44%] Built target serial_motor_demo_msgs__rosidl_typesupport_c
+[ 44%] Built target serial_motor_demo_msgs__rosidl_typesupport_cpp
+[ 55%] Built target serial_motor_demo_msgs__rosidl_typesupport_introspection_c
+[ 65%] Built target serial_motor_demo_msgs__rosidl_typesupport_fastrtps_cpp
+[ 76%] Built target serial_motor_demo_msgs__rosidl_typesupport_fastrtps_c
+[ 76%] Built target serial_motor_demo_msgs
+[ 78%] Built target serial_motor_demo_msgs__py
+[ 87%] Built target serial_motor_demo_msgs__python
+[ 91%] Built target serial_motor_demo_msgs__rosidl_typesupport_fastrtps_c__pyext
+[ 95%] Built target serial_motor_demo_msgs__rosidl_typesupport_introspection_c__pyext
+[100%] Built target serial_motor_demo_msgs__rosidl_typesupport_c__pyext
+-- Install configuration: ""
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/msg
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/msg/detail
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/msg/detail/encoder_vals__functions.c
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/msg/detail/motor_vels__functions.c
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/msg/detail/motor_command__functions.c
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/lib/libserial_motor_demo_msgs__rosidl_generator_c.so
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/msg
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/msg/detail
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/msg
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/msg/detail
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/msg/detail/dds_fastrtps
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/msg
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/msg/detail
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/msg/detail/motor_command__type_support.c
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/msg/detail/motor_vels__type_support.c
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/msg/detail/encoder_vals__type_support.c
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/lib/libserial_motor_demo_msgs__rosidl_typesupport_introspection_c.so
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/lib/libserial_motor_demo_msgs__rosidl_typesupport_c.so
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/msg
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/msg/detail
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/msg
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/msg/detail
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/msg/detail/motor_vels__type_support.cpp
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/msg/detail/motor_command__type_support.cpp
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/include/serial_motor_demo_msgs/msg/detail/encoder_vals__type_support.cpp
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/lib/libserial_motor_demo_msgs__rosidl_typesupport_introspection_cpp.so
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/lib/libserial_motor_demo_msgs__rosidl_typesupport_cpp.so
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/lib/python3.8/site-packages/serial_motor_demo_msgs/msg
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/lib/python3.8/site-packages/serial_motor_demo_msgs/msg/_motor_command_s.c
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/lib/python3.8/site-packages/serial_motor_demo_msgs/msg/_encoder_vals_s.c
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/lib/python3.8/site-packages/serial_motor_demo_msgs/msg/_motor_vels_s.c
+-- Installing: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/package.dsv
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/cmake/serial_motor_demo_msgs__rosidl_generator_cExport.cmake
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/cmake/serial_motor_demo_msgs__rosidl_generator_cExport-noconfig.cmake
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/cmake/serial_motor_demo_msgs__rosidl_typesupport_introspection_cExport.cmake
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/cmake/serial_motor_demo_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/cmake/serial_motor_demo_msgs__rosidl_typesupport_cExport.cmake
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/cmake/serial_motor_demo_msgs__rosidl_typesupport_cExport-noconfig.cmake
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/cmake/serial_motor_demo_msgs__rosidl_generator_cppExport.cmake
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/cmake/serial_motor_demo_msgs__rosidl_typesupport_introspection_cppExport.cmake
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/cmake/serial_motor_demo_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/cmake/serial_motor_demo_msgs__rosidl_typesupport_cppExport.cmake
+-- Up-to-date: /home/thanhtan/ros_ws/install/serial_motor_demo_msgs/share/serial_motor_demo_msgs/cmake/serial_motor_demo_msgs__rosidl_typesupport_cppExport-noconfig.cmake

@@ -1,0 +1,4 @@
+Invoking command in '/home/thanhtan/ros_ws/build/serial': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/thanhtan/ros_ws/install/serial_motor_demo:/opt/ros/foxy /usr/bin/cmake --build /home/thanhtan/ros_ws/build/serial -- -j12 -l12
+Invoked command in '/home/thanhtan/ros_ws/build/serial' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/thanhtan/ros_ws/install/serial_motor_demo:/opt/ros/foxy /usr/bin/cmake --build /home/thanhtan/ros_ws/build/serial -- -j12 -l12
+Invoking command in '/home/thanhtan/ros_ws/build/serial': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/thanhtan/ros_ws/install/serial_motor_demo:/opt/ros/foxy /usr/bin/cmake --install /home/thanhtan/ros_ws/build/serial
+Invoked command in '/home/thanhtan/ros_ws/build/serial' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/thanhtan/ros_ws/install/serial_motor_demo:/opt/ros/foxy /usr/bin/cmake --install /home/thanhtan/ros_ws/build/serial

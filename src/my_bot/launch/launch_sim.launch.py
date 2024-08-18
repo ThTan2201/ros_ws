@@ -37,7 +37,6 @@ def generate_launch_description():
                                    '-entity', 'my_bot'],
                         output='screen')
 
-
     diff_drive_spawner = Node(
         package="controller_manager",
         executable="spawner.py",

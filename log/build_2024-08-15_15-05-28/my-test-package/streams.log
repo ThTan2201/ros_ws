@@ -1,0 +1,42 @@
+[0.511s] Invoking command in '/home/thanhtan/ros_ws/build/my-test-package': PS1=\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/thanhtan/ros_ws/build/my-test-package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/thanhtan/ros_ws/install/my-test-package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/thanhtan/ros_ws/build/my-test-package/build --no-deps
+[0.761s] running develop
+[0.761s] /home/thanhtan/.local/lib/python3.8/site-packages/setuptools/command/develop.py:42: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[0.761s] !!
+[0.761s] 
+[0.761s]         ********************************************************************************
+[0.762s]         Please avoid running ``setup.py`` and ``easy_install``.
+[0.762s]         Instead, use pypa/build, pypa/installer or other
+[0.762s]         standards-based tools.
+[0.762s] 
+[0.762s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[0.762s]         ********************************************************************************
+[0.762s] 
+[0.762s] !!
+[0.762s]   easy_install.initialize_options(self)
+[0.774s] Traceback (most recent call last):
+[0.774s]   File "setup.py", line 3, in <module>
+[0.774s]     setuptools.setup(
+[0.774s]   File "/home/thanhtan/.local/lib/python3.8/site-packages/setuptools/__init__.py", line 108, in setup
+[0.774s]     return distutils.core.setup(**attrs)
+[0.774s]   File "/home/thanhtan/.local/lib/python3.8/site-packages/setuptools/_distutils/core.py", line 184, in setup
+[0.774s]     return run_commands(dist)
+[0.774s]   File "/home/thanhtan/.local/lib/python3.8/site-packages/setuptools/_distutils/core.py", line 200, in run_commands
+[0.774s]     dist.run_commands()
+[0.774s]   File "/home/thanhtan/.local/lib/python3.8/site-packages/setuptools/_distutils/dist.py", line 964, in run_commands
+[0.774s]     self.run_command(cmd)
+[0.775s]   File "/home/thanhtan/.local/lib/python3.8/site-packages/setuptools/dist.py", line 945, in run_command
+[0.775s]     super().run_command(command)
+[0.775s]   File "/home/thanhtan/.local/lib/python3.8/site-packages/setuptools/_distutils/dist.py", line 982, in run_command
+[0.775s]     cmd_obj.ensure_finalized()
+[0.775s]   File "/home/thanhtan/.local/lib/python3.8/site-packages/setuptools/_distutils/cmd.py", line 111, in ensure_finalized
+[0.775s]     self.finalize_options()
+[0.775s]   File "/home/thanhtan/.local/lib/python3.8/site-packages/setuptools/command/develop.py", line 52, in finalize_options
+[0.775s]     easy_install.finalize_options(self)
+[0.775s]   File "/home/thanhtan/.local/lib/python3.8/site-packages/setuptools/command/easy_install.py", line 251, in finalize_options
+[0.775s]     'dist_fullname': self.distribution.get_fullname(),
+[0.775s]   File "/home/thanhtan/.local/lib/python3.8/site-packages/setuptools/_core_metadata.py", line 266, in get_fullname
+[0.775s]     return _distribution_fullname(self.get_name(), self.get_version())
+[0.775s]   File "/home/thanhtan/.local/lib/python3.8/site-packages/setuptools/_core_metadata.py", line 284, in _distribution_fullname
+[0.775s]     canonicalize_version(version, strip_trailing_zero=False),
+[0.776s] TypeError: canonicalize_version() got an unexpected keyword argument 'strip_trailing_zero'
+[0.804s] Invoked command in '/home/thanhtan/ros_ws/build/my-test-package' returned '1': PS1=\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/thanhtan/ros_ws/build/my-test-package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/thanhtan/ros_ws/install/my-test-package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/thanhtan/ros_ws/build/my-test-package/build --no-deps

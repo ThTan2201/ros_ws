@@ -1,0 +1,20 @@
+[0.752s] Invoking command in '/home/thanhtan/ros_ws/build/serial_motor_demo': PYTHONPATH=/home/thanhtan/ros_ws/build/serial_motor_demo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/thanhtan/ros_ws/install/serial_motor_demo/lib/python3.8/site-packages:/home/thanhtan/ros_ws/install/serial_motor_demo_msgs/lib/python3.8/site-packages:/home/thanhtan/ros_ws/build/serial_motor_demo:/home/thanhtan/ros_ws/install/serial_motor_demo/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/thanhtan/ros_ws/build/serial_motor_demo/build --no-deps symlink_data
+[1.050s] running develop
+[1.050s] /home/thanhtan/.local/lib/python3.8/site-packages/setuptools/command/easy_install.py:144: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.050s]   warnings.warn(
+[1.209s] running egg_info
+[1.219s] writing serial_motor_demo.egg-info/PKG-INFO
+[1.219s] writing dependency_links to serial_motor_demo.egg-info/dependency_links.txt
+[1.219s] writing entry points to serial_motor_demo.egg-info/entry_points.txt
+[1.219s] writing requirements to serial_motor_demo.egg-info/requires.txt
+[1.220s] writing top-level names to serial_motor_demo.egg-info/top_level.txt
+[1.243s] reading manifest file 'serial_motor_demo.egg-info/SOURCES.txt'
+[1.244s] writing manifest file 'serial_motor_demo.egg-info/SOURCES.txt'
+[1.293s] running build_ext
+[1.293s] Creating /home/thanhtan/ros_ws/install/serial_motor_demo/lib/python3.8/site-packages/serial-motor-demo.egg-link (link to .)
+[1.294s] Installing driver script to /home/thanhtan/ros_ws/install/serial_motor_demo/lib/serial_motor_demo
+[1.294s] Installing gui script to /home/thanhtan/ros_ws/install/serial_motor_demo/lib/serial_motor_demo
+[1.294s] 
+[1.294s] Installed /home/thanhtan/ros_ws/build/serial_motor_demo
+[1.294s] running symlink_data
+[1.341s] Invoked command in '/home/thanhtan/ros_ws/build/serial_motor_demo' returned '0': PYTHONPATH=/home/thanhtan/ros_ws/build/serial_motor_demo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/thanhtan/ros_ws/install/serial_motor_demo/lib/python3.8/site-packages:/home/thanhtan/ros_ws/install/serial_motor_demo_msgs/lib/python3.8/site-packages:/home/thanhtan/ros_ws/build/serial_motor_demo:/home/thanhtan/ros_ws/install/serial_motor_demo/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/thanhtan/ros_ws/build/serial_motor_demo/build --no-deps symlink_data

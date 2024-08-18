@@ -1,0 +1,30 @@
+[0.018s] Invoking command in '/home/thanhtan/ros_ws/build/my_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy PS1=\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ /usr/bin/cmake /home/thanhtan/ros_ws/src/my_bot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/thanhtan/ros_ws/install/my_bot
+[0.072s] -- The C compiler identification is GNU 9.4.0
+[0.123s] -- The CXX compiler identification is GNU 9.4.0
+[0.128s] -- Check for working C compiler: /usr/bin/cc
+[0.197s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.198s] -- Detecting C compiler ABI info
+[0.277s] -- Detecting C compiler ABI info - done
+[0.287s] -- Detecting C compile features
+[0.287s] -- Detecting C compile features - done
+[0.289s] -- Check for working CXX compiler: /usr/bin/c++
+[0.365s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.366s] -- Detecting CXX compiler ABI info
+[0.445s] -- Detecting CXX compiler ABI info - done
+[0.455s] -- Detecting CXX compile features
+[0.455s] -- Detecting CXX compile features - done
+[0.457s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.480s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.480s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.648s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.670s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[0.738s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.741s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.741s] -- Added test 'lint_cmake' to check CMake code style
+[0.742s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[0.743s] -- Added test 'xmllint' to check XML markup files
+[0.746s] -- Configuring done
+[0.747s] -- Generating done
+[0.748s] -- Build files have been written to: /home/thanhtan/ros_ws/build/my_bot
+[0.752s] Invoked command in '/home/thanhtan/ros_ws/build/my_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy PS1=\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ /usr/bin/cmake /home/thanhtan/ros_ws/src/my_bot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/thanhtan/ros_ws/install/my_bot
+[0.755s] Invoking command in '/home/thanhtan/ros_ws/build/my_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy PS1=\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ /usr/bin/cmake --build /home/thanhtan/ros_ws/build/my_bot -- -j12 -l12

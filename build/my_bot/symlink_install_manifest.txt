@@ -1,4 +1,5 @@
 /home/thanhtan/ros_ws/install/my_bot/share/my_bot/config/empty.yaml
+/home/thanhtan/ros_ws/install/my_bot/share/my_bot/config/gaz_ros2_ctl_use_sim.yaml
 /home/thanhtan/ros_ws/install/my_bot/share/my_bot/config/my_controllers.yaml
 /home/thanhtan/ros_ws/install/my_bot/share/my_bot/config/view_robot_rviz.rviz
 /home/thanhtan/ros_ws/install/my_bot/share/my_bot/description/camera.xacro
@@ -8,6 +9,7 @@
 /home/thanhtan/ros_ws/install/my_bot/share/my_bot/description/robot.urdf.xacro
 /home/thanhtan/ros_ws/install/my_bot/share/my_bot/description/robot_core.xacro
 /home/thanhtan/ros_ws/install/my_bot/share/my_bot/description/ros2_control.xacro
+/home/thanhtan/ros_ws/install/my_bot/share/my_bot/launch/launch_robot.launch.py
 /home/thanhtan/ros_ws/install/my_bot/share/my_bot/launch/launch_sim.launch.py
 /home/thanhtan/ros_ws/install/my_bot/share/my_bot/launch/listener.launch.py
 /home/thanhtan/ros_ws/install/my_bot/share/my_bot/launch/rsp.launch.py

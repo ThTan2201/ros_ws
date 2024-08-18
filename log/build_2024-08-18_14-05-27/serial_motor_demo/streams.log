@@ -1,0 +1,20 @@
+[0.716s] Invoking command in '/home/thanhtan/ros_ws/build/serial_motor_demo': CMAKE_PREFIX_PATH=/home/thanhtan/ros_ws/install/serial_motor_demo_msgs:/home/thanhtan/ros_ws/install/diffdrive_arduino:/home/thanhtan/ros_ws/install/serial:/home/thanhtan/ros_ws/install/my_bot LD_LIBRARY_PATH=/home/thanhtan/ros_ws/install/serial_motor_demo_msgs/lib:/home/thanhtan/ros_ws/install/diffdrive_arduino/lib:/home/thanhtan/ros_ws/install/serial/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib PYTHONPATH=/home/thanhtan/ros_ws/build/serial_motor_demo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/thanhtan/ros_ws/install/serial_motor_demo/lib/python3.8/site-packages:/home/thanhtan/ros_ws/install/serial_motor_demo_msgs/lib/python3.8/site-packages:/home/thanhtan/ros_ws/build/serial_motor_demo:/home/thanhtan/ros_ws/install/serial_motor_demo/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/thanhtan/ros_ws/build/serial_motor_demo/build --no-deps symlink_data
+[0.950s] /home/thanhtan/.local/lib/python3.8/site-packages/setuptools/command/easy_install.py:144: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.950s]   warnings.warn(
+[0.950s] running develop
+[1.083s] running egg_info
+[1.091s] writing serial_motor_demo.egg-info/PKG-INFO
+[1.092s] writing dependency_links to serial_motor_demo.egg-info/dependency_links.txt
+[1.092s] writing entry points to serial_motor_demo.egg-info/entry_points.txt
+[1.092s] writing requirements to serial_motor_demo.egg-info/requires.txt
+[1.092s] writing top-level names to serial_motor_demo.egg-info/top_level.txt
+[1.113s] reading manifest file 'serial_motor_demo.egg-info/SOURCES.txt'
+[1.113s] writing manifest file 'serial_motor_demo.egg-info/SOURCES.txt'
+[1.157s] running build_ext
+[1.157s] Creating /home/thanhtan/ros_ws/install/serial_motor_demo/lib/python3.8/site-packages/serial-motor-demo.egg-link (link to .)
+[1.157s] Installing driver script to /home/thanhtan/ros_ws/install/serial_motor_demo/lib/serial_motor_demo
+[1.157s] Installing gui script to /home/thanhtan/ros_ws/install/serial_motor_demo/lib/serial_motor_demo
+[1.158s] 
+[1.158s] Installed /home/thanhtan/ros_ws/build/serial_motor_demo
+[1.158s] running symlink_data
+[1.183s] Invoked command in '/home/thanhtan/ros_ws/build/serial_motor_demo' returned '0': CMAKE_PREFIX_PATH=/home/thanhtan/ros_ws/install/serial_motor_demo_msgs:/home/thanhtan/ros_ws/install/diffdrive_arduino:/home/thanhtan/ros_ws/install/serial:/home/thanhtan/ros_ws/install/my_bot LD_LIBRARY_PATH=/home/thanhtan/ros_ws/install/serial_motor_demo_msgs/lib:/home/thanhtan/ros_ws/install/diffdrive_arduino/lib:/home/thanhtan/ros_ws/install/serial/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib PYTHONPATH=/home/thanhtan/ros_ws/build/serial_motor_demo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/thanhtan/ros_ws/install/serial_motor_demo/lib/python3.8/site-packages:/home/thanhtan/ros_ws/install/serial_motor_demo_msgs/lib/python3.8/site-packages:/home/thanhtan/ros_ws/build/serial_motor_demo:/home/thanhtan/ros_ws/install/serial_motor_demo/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/thanhtan/ros_ws/build/serial_motor_demo/build --no-deps symlink_data
